@@ -63,6 +63,8 @@ Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 # Applications
 
+## Speech Recognition
+
 ## Natural Language Processing
 
 ## Computer Vision
