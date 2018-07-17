@@ -38,39 +38,39 @@ Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 ### Generalized Linear Models
 
-## Bayes Nets
+### Bayes Nets
 
-## Mixture Models
+### Mixture Models
 
-## Latent Linear Models
+### Latent Linear Models
 
-## Sparse Linear Models
+### Sparse Linear Models
 
-## Kernels
+### Kernels
 
-## Gaussian Processes
+### Gaussian Processes
 
-## Adaptive Basis Function Models
+### Adaptive Basis Function Models
 
-## Markov and hidden Markov models
+### Markov and hidden Markov models
 
-## State Space Models
+### State Space Models
 
-## Markov Random Fields
+### Markov Random Fields
 
-## Exact inference for graphical models
+### Exact inference for graphical models
 
-## Variational Inference
+### Variational Inference
 
-## Monte Carlo Inference
+### Monte Carlo Inference
 
-## MCMC inference
+### MCMC inference
 
-## Clustering
+### Clustering
 
-## Graphical Model Structure Learning
+### Graphical Model Structure Learning
 
-## Latent Variable Models for Discrete Data
+### Latent Variable Models for Discrete Data
 
 
 # References
