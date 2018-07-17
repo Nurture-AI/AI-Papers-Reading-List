@@ -3,6 +3,7 @@ Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 # Textbook References for Primitives
 [Machine Learning: A Probablistic Perspective Kevin P.Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
+
 [Deep Learning Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 
 
