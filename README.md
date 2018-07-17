@@ -26,11 +26,11 @@ Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 ## Applications
 
-## Speech Recognition
+### Speech Recognition
 
-## Natural Language Processing
+### Natural Language Processing
 
-## Computer Vision
+### Computer Vision
 
 ## Reinforcement Learning
 
