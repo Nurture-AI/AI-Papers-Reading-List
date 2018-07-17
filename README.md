@@ -34,7 +34,7 @@ Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 ## Reinforcement Learning
 
-## Non-DL Machine Learning
+## More Machine Learning
 
 ### Generalized Linear Models
 
