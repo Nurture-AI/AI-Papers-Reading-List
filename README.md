@@ -1,4 +1,4 @@
-# AI-Papers-Reading-Roadmap
+# AI Papers Reading List
 Actively maintained weekly by the Nurture.AI AI Research Fellows team
 
 # Textbook References for Primitives
